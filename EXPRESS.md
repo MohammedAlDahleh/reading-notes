@@ -65,7 +65,10 @@ In order to use these you have to first install the database driver using NPM. F
 
 
  # npm:
+ npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
  
+ * Use npm to:
+
 1) Adapt packages of code for your apps, or incorporate packages as they are.
 2) Download standalone tools you can use right away.
 3) Run packages without downloading using npx.
@@ -77,3 +80,21 @@ In order to use these you have to first install the database driver using NPM. F
 9) Update applications easily when underlying code is updated.
 10) Discover multiple ways to solve the same puzzle.
 11) Find other developers who are working on similar problems and projects.
+
+# TDD
+* Definition
+“Test-driven development” refers to a style of programming in which three activities are tightly interwoven: coding, testing (in the form of writing unit tests) and design (in the form of refactoring).
+
+It can be succinctly described by the following set of rules:
+
+write a “single” unit test describing an aspect of the program
+run the test, which should fail because the program lacks that feature
+write “just enough” code, the simplest possible, to make the test pass
+“refactor” the code until it conforms to the simplicity criteria
+repeat, “accumulating” unit tests over time.
+
+* Expected Benefits: 
+
+many teams report significant reductions in defect rates, at the cost of a moderate increase in initial development effort
+the same teams tend to report that these overheads are more than offset by a reduction in effort in projects’ final phases
+although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling
