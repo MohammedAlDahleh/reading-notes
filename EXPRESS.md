@@ -98,3 +98,8 @@ repeat, “accumulating” unit tests over time.
 many teams report significant reductions in defect rates, at the cost of a moderate increase in initial development effort
 the same teams tend to report that these overheads are more than offset by a reduction in effort in projects’ final phases
 although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling
+# [nodeJS docs](https://nodejs.org/en/docs/)
+# [npm docs](https://docs.npmjs.com/)
+# [http status codes](https://www.restapitutorial.com/httpstatuscodes.html)
+# [supertest](https://github.com/visionmedia/supertest)
+# [CI/CD](https://www.youtube.com/watch?v=xSv_m3KhUO8)
