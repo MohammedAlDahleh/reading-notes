@@ -1,6 +1,6 @@
 ## Things I want to know more about
-
-<h1>[Big-O]</h1>(https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
+<h2>Big O</h2>
+[Big-O](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
 
 - Big O(oh) notation is used to describe the efficiency of an algorithm or function.
 
@@ -9,7 +9,7 @@
 2. Units of Measurement
 3. Orders of Growth
 4. Best Case, Worst Case, and Average Case
-<h1>Linked Lists
+<h2>Linked Lists </h2>
 * Terminology:
 1. Linked List - A data structure that contains nodes that links/points to the next node in the list.
 2. Singly - Singly refers to the number of references the node has. A Singly linked list means that there is only one reference, and the reference points to the Next node in a linked list.
