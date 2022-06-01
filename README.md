@@ -18,3 +18,5 @@ This file is to keep track of the observations and questions from my reading ass
 <h2>Reading List</h2>
 
 [Express](./EXPRESS.md)
+[Rest-API](./REST-API.md)
+[Linked-List](./Linked-Lists.md)
