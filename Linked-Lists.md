@@ -1,5 +1,6 @@
 ## Things I want to know more about
 <h2>Big O</h2>
+
 [Big-O](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
 
 - Big O(oh) notation is used to describe the efficiency of an algorithm or function.
