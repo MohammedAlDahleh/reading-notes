@@ -4,7 +4,7 @@ This file is to keep track of the observations and questions from my reading ass
 
 <h2>Code 401 - Advanced Software Development</h2>
 
-
+[SQL-Practice](../reading-notes/SQL/screenshot.md)
 
 
 
