@@ -41,11 +41,11 @@
  ===========================================================================================================
 <h1>sql modeling techniques</h1>
 
- * Data Modeling – Table Elements:
+ * Data Modeling – Table Elements:</br>
  ![Table Elements](https://www.essentialsql.com/wp-content/uploads/2021/11/Database-Table-Data-Modeling.png)
 
- * Data Modeling – Table Relationships:
- [Table Relationships](https://www.essentialsql.com/wp-content/uploads/2014/06/DataModel-Relations1.png)
+ * Data Modeling – Table Relationships:</br>
+ ! [Table Relationships](https://www.essentialsql.com/wp-content/uploads/2014/06/DataModel-Relations1.png)
 
     Cardinality	        Notation
  1. zero or one-to-many	  0..*
