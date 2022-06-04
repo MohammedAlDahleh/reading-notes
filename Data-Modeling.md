@@ -36,8 +36,9 @@
  2. Redis as Cache.
  3. Very fast.
 
-[nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)</br>
-[Sql vs NoSql](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)</br>
+ [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)</br>
+ </br>
+ [Sql vs NoSql](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)</br>
  ===========================================================================================================
 <h1>sql modeling techniques</h1>
 
