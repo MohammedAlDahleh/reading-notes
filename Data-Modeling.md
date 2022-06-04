@@ -3,35 +3,37 @@
 <h1> SQL vs NoSQL Database:</h1>
 
 * SQL Database Examples:
-1. MySQL Community Edition:
+
+ * MySQL Community Edition:
  1. Replication.
  2. Sharding.
  3. Memcached as a NoSQL API to MySQL.
  4. Maturity.
  5. Wide range of Platforms and Languages.
  6. Cost effectiveness.
-2. MS-SQL Server Express Edition
+* MS-SQL Server Express Edition
  1. Integrated Development Environment.
  2. Disaster Recovery.
  3. Cloud back-up.
-3. Oracle Express Edition:
+* Oracle Express Edition:
  1. Easy to Upgrade.
  2. Wide platform support.
  3. Scalability
 
 * NoSQL Database Examples:
-1. MongoDB
+
+ * MongoDB
  1. Speed.
  2. Scalability.
  3. Manageable.
  4. Dynamic Schema.
 
-2. CouchDB
+* CouchDB
  1. Schema-lesS.
  2. HTTP query.
  3. Conflict Resolution.
  4. Easy Replication.
-3. Redis
+* Redis
  1. Data structures.
  2. Redis as Cache.
  3. Very fast.
@@ -48,7 +50,7 @@
  * Data Modeling – Table Relationships:</br>
  ![Table Relationships](https://www.essentialsql.com/wp-content/uploads/2014/06/DataModel-Relations1.png)
 
-    Cardinality	        Notation
+ Cardinality	    -    Notation
  1. zero or one-to-many	  0..*
  2. one-to-many	          1..*
  3. zero or one-to-one	  0..1
