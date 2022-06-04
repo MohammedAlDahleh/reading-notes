@@ -1,8 +1,16 @@
-<h1> reading-notes </h1>
+<h1>reading-notes</h1>
 
 This file is to keep track of the observations and questions from my reading assignments throughout the course. It is a way to document and highlight my new knowledge, and publish it to github.
 
+
+<h1>Personal Information</h1>
+I am Mohammed Al Dahleh, a software engineer graduated from AAU. I am writing to express my willing to join the CRM unit in your company as a trainee. I have 3 years of experience in ERP and CRM.
+
+<h2>Code 102 - Intro to Software Development</h2>
+<h2>Code 201 - Foundations of Software Development</h2>
+<h2>Code 301 - Intermediate Software Development</h2>
 <h2>Code 401 - Advanced Software Development</h2>
+
 
 [SQL-Practice](./SQL/sql.md)</br>
 [Git-Practice](./GIT%20Practice/GIT-Practice.md)</br>
@@ -14,7 +22,6 @@ This file is to keep track of the observations and questions from my reading ass
 [Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<br/>
 
 [Getting Started with GitHub Pages](https://docs.github.com/en/pages/quickstart)
-
 
 <h2>Reading List</h2>
 
