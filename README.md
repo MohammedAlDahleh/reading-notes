@@ -7,7 +7,7 @@ This file is to keep track of the observations and questions from my reading ass
 [SQL-Practice](./SQL/sql.md)</br>
 [Git-Practice](./GIT%20Practice/GIT-Practice.md)</br>
 [Typing-Practice](./Typing-Practice/Typing-Practice.md)</br>
-
+[Terminal-Practice](./Terminal/Terminal.md)</br>
 
 <h3>Setup and Documentation</h3>
 
