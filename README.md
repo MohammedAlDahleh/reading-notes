@@ -13,9 +13,10 @@ I am Mohammed Al Dahleh, a software engineer graduated from AAU. I am writing to
 
 
 [SQL-Practice](./SQL/sql.md)</br>
-[Git-Practice](./GIT%20Practice/GIT-Practice.md)</br>
+[Git-Practice](./GIT-Practice/GIT-Practice.md)</br>
 [Typing-Practice](./Typing-Practice/Typing-Practice.md)</br>
 [Terminal-Practice](./Terminal/Terminal.md)</br>
+[sequelize-normalization](./sequelize-normalization/sequelize-normalization.md)</br>
 
 <h3>Setup and Documentation</h3>
 
