@@ -17,6 +17,7 @@ I am Mohammed Al Dahleh, a software engineer graduated from AAU. I am writing to
 [Typing-Practice](./Typing-Practice/Typing-Practice.md)</br>
 [Terminal-Practice](./Terminal/Terminal.md)</br>
 [sequelize-normalization](./sequelize-normalization/sequelize-normalization.md)</br>
+[Authentication](./Authentication/Authentication.md)
 
 <h3>Setup and Documentation</h3>
 
