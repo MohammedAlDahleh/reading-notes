@@ -17,8 +17,8 @@ I am Mohammed Al Dahleh, a software engineer graduated from AAU. I am writing to
 [Typing-Practice](./Typing-Practice/Typing-Practice.md)</br>
 [Terminal-Practice](./Terminal/Terminal.md)</br>
 [sequelize-normalization](./sequelize-normalization/sequelize-normalization.md)</br>
-[Authentication](./Authentication/Authentication.md)
-
+[Authentication](./Authentication/Authentication.md)<br>
+[Bearer-Authorization](./Bearer%20Authorization/Bearer-Authorization.md)
 <h3>Setup and Documentation</h3>
 
 [Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<br/>
