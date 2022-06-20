@@ -12,11 +12,11 @@ I am Mohammed Al Dahleh, a software engineer graduated from AAU. I am writing to
 <h2>Code 401 - Advanced Software Development</h2>
 
 
-[SQL-Practice](./SQL/sql.md)</br>
-[Git-Practice](./GIT-Practice/GIT-Practice.md)</br>
-[Typing-Practice](./Typing-Practice/Typing-Practice.md)</br>
-[Terminal-Practice](./Terminal/Terminal.md)</br>
-[sequelize-normalization](./sequelize-normalization/sequelize-normalization.md)</br>
+[SQL-Practice](./SQL/sql.md)<br>
+[Git-Practice](./GIT-Practice/GIT-Practice.md)<br>
+[Typing-Practice](./Typing-Practice/Typing-Practice.md)<br>
+[Terminal-Practice](./Terminal/Terminal.md)<br>
+[sequelize-normalization](./sequelize-normalization/sequelize-normalization.md)<br>
 [Authentication](./Authentication/Authentication.md)<br>
 [Bearer-Authorization](./Bearer%20Authorization/Bearer-Authorization.md)<br>
 [Access-Control-(ACL)](./Acces-Control-(ACL)/Access-Control-(ACL).md)<br>
