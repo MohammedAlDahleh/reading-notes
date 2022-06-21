@@ -144,5 +144,5 @@ myEmitter.emit('error', new Error('whoops!'));
 // Still throws and crashes Node.js
 ---
 
-[Event-Driven Programming in Node.js](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
-[Event - Node.js](https://nodejs.org/api/events.html)
+[Event-Driven Programming in Node.js](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)<br>
+[Event - Node.js](https://nodejs.org/api/events.html)<br>
