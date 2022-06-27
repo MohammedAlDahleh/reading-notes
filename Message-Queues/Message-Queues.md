@@ -318,3 +318,7 @@ io.of("/").adapter.on("join-room", (room, id) => {
   console.log(`socket ${id} has joined room ${room}`);
 });
 ---
+
+[Socket.io Chat Example](https://socket.io/get-started/chat/)
+[Rooms](https://socket.io/docs/v4/rooms)
+[Namespaces](https://socket.io/docs/v4/namespaces/)
