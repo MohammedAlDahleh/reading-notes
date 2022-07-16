@@ -62,8 +62,8 @@
 6. Powerful Conditional/Filtering Support
 7. Callback & Promise support 
 
-[AWS API Gateway Overview](https://www.serverless.com/amazon-api-gateway)
-[AWS API Gateway](https://aws.amazon.com/api-gateway/)
-[AWS DynamoDB Guide](https://www.dynamodbguide.com/what-is-dynamo-db/)
-[AWS DynamoDB](https://aws.amazon.com/dynamodb/)
-[Dynamoose](https://dynamoosejs.com/getting_started/Introduction)
+[AWS API Gateway Overview](https://www.serverless.com/amazon-api-gateway)<br>
+[AWS API Gateway](https://aws.amazon.com/api-gateway/)<br>
+[AWS DynamoDB Guide](https://www.dynamodbguide.com/what-is-dynamo-db/)<br>
+[AWS DynamoDB](https://aws.amazon.com/dynamodb/)<br>
+[Dynamoose](https://dynamoosejs.com/getting_started/Introduction)<br>
