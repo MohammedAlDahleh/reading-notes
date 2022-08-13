@@ -1,6 +1,6 @@
 ## Things I want to know more about
 
-*  (Links to an external site.)What purpose does useEffect serve in a function component compared to its counterpart(s) in class components?
+* What purpose does useEffect serve in a function component compared to its counterpart(s) in class components?
 
 - The Effect Hook lets you perform side effects in function components:
 
