@@ -32,6 +32,8 @@ I am Mohammed Al Dahleh, a software engineer graduated from AAU. I am writing to
 [ComponentBasedUI](./Component-Based-UI/ComponentBasedUI.md)<br>
 [Hook](./Hook/Hook.md)<br>
 [Component-Lifecycle--useEffect-Hook](./Component-Lifecycle--useEffect-Hook/Component-Lifecycle--useEffect-Hook.md)<br>
+[Advanced-State-with-Reducers](./Advanced-State-with-Reducers/Advanced-State-with-Reducers.md)<br/>
+
 
 <h3>Setup and Documentation</h3>
 
