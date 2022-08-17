@@ -33,6 +33,7 @@ I am Mohammed Al Dahleh, a software engineer graduated from AAU. I am writing to
 [Hook](./Hook/Hook.md)<br>
 [Component-Lifecycle--useEffect-Hook](./Component-Lifecycle--useEffect-Hook/Component-Lifecycle--useEffect-Hook.md)<br>
 [Advanced-State-with-Reducers](./Advanced-State-with-Reducers/Advanced-State-with-Reducers.md)<br/>
+[Hash-Tables](./Hash-Tables/Hash-Tables.md)<br>
 
 
 <h3>Setup and Documentation</h3>
