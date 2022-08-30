@@ -37,7 +37,8 @@ I am Mohammed Al Dahleh, a software engineer graduated from AAU. I am writing to
 [Context-API](./Context-API/Context-API.md)<br>
 [Context-API-Behaviors](./Context-API-Behaviors/Context-API-Behaviors.md)<br>
 [Login-and-Auth](./Login-and-Auth/Login-and-Auth.md)<br/>
-[API-Integration](./API-Integration/API-Integration.md)
+[API-Integration](./API-Integration/API-Integration.md)<br/>
+[Application-State-with-Redux](./Application-State-with-Redux/Application-State-with-Redux.md)<br/>
 
 <h3>Setup and Documentation</h3>
 
