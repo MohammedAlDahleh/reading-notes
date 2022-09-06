@@ -40,6 +40,7 @@ I am Mohammed Al Dahleh, a software engineer graduated from AAU. I am writing to
 [API-Integration](./API-Integration/API-Integration.md)<br/>
 [Application-State-with-Redux](./Application-State-with-Redux/Application-State-with-Redux.md)<br/>
 [Redux-Combined-Reducers](./Redux-Combined-Reducers/Redux-Combined-Reducers.md)<br/>
+[Redux-Asynchronous-Actions](./Redux-Asynchronous-Actions/Redux-Asynchronous-Actions.js)<br/>
 
 <h3>Setup and Documentation</h3>
 
